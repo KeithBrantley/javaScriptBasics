@@ -1,6 +1,7 @@
 
 body {
     background-color: blue;
+    width: 970px;
 }
 h1 {
     border: 1px solid;
@@ -11,13 +12,17 @@ h1 {
     display: inline-block;
     background-color: cornflowerblue;
     vertical-align: top;
+    display: inline-block;
+    max-width: 200px;;
 }
 .main_article {
     border: 1px solid;
     display: inline-block;
     background-color: midnightblue;
     vertical-align: top;
-    max-width: 800px;
+    display: inline-block;
+    width: 700px;
+    margin-left: 61px;
 }
 footer {
     border: 1px solid;
