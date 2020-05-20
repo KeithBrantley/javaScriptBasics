@@ -1,0 +1,25 @@
+body {
+    background-color: blue;
+}
+h1 {
+    border: 1px solid;
+    background-color: red;
+}
+.navigation {
+    border: 1px solid;
+    display: inline-block;
+    background-color: cornflowerblue;
+    vertical-align: top;
+}
+.main_article {
+    border: 1px solid;
+    display: inline-block;
+    background-color: midnightblue;
+    vertical-align: top;
+    max-width: 800px;
+}
+footer {
+    border: 1px solid;
+    background-color: slategray;
+    margin-top: 20px;
+}
